@@ -1,0 +1,22 @@
+Usuario: alumno13
+Número usuario: 13
+Nombre del fichero: Sample1.fastq
+Nombre del fichero de salida: Sample1_reduced.fastq
+Número de líneas del fichero reducido: 592
+Se ha borrado el archivo de entrada: Sample1.fastq
+Se ha cambiado el nombre del archivo de salida: Sample1_reduced.fastq > Sample1.fastq
+Nombre del fichero: Sample2.fastq
+Nombre del fichero de salida: Sample2_reduced.fastq
+Número de líneas del fichero reducido: 592
+Se ha borrado el archivo de entrada: Sample2.fastq
+Se ha cambiado el nombre del archivo de salida: Sample2_reduced.fastq > Sample2.fastq
+Nombre del fichero: Sample3.fastq
+Nombre del fichero de salida: Sample3_reduced.fastq
+Número de líneas del fichero reducido: 592
+Se ha borrado el archivo de entrada: Sample3.fastq
+Se ha cambiado el nombre del archivo de salida: Sample3_reduced.fastq > Sample3.fastq
+Nombre del fichero: Sample4.fastq
+Nombre del fichero de salida: Sample4_reduced.fastq
+Número de líneas del fichero reducido: 592
+Se ha borrado el archivo de entrada: Sample4.fastq
+Se ha cambiado el nombre del archivo de salida: Sample4_reduced.fastq > Sample4.fastq
